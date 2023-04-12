@@ -23,6 +23,20 @@ Unavailable.
 
 ***
 
-**File version:** `1 (2023, Tuesday, April 11th at 4:18 pm PST)`
+## Achievements
+
+Achievements are in early Alpha stages, and are not broad enough to put on display yet.
+
+[:octocat: `Help improve the outside achievements page`](https://github.com/seanpm2001/Outside_Achievements/)
+
+***
+
+## Empty section
+
+Lorem ipsum
+
+***
+
+**File version:** `2 (2023, Tuesday, April 11th at 8:38 pm PST)`
 
 ***
