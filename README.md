@@ -13,7 +13,7 @@ This is my [:octocat: `Outside`](https://github.com/seanpm2001/Outside/) profile
 |---|---|
 | [:octocat: `@SeanWallaWalla`](https://github.com/SeanWallaWalla) (2015-2018, 2020-present) | [:octocat: `@Seanpm2001`](https://github.com/seanpm2001/) (2020-present) |
 | [:octocat: `@SeanTRM-Dev`](https://github.com/SeanTRM-Dev) (2015-2018, 2020-present) | _Incumbent_ |
-| [:octocat: `@SeanSpokane2015-`](https://github.com/SeanTRM-Dev) (2015-2018, 2020-present) | _Incumbent_ |
+| [:octocat: `@SeanSpokane2015`](https://github.com/SeanSpokane2015) (2015-2018, 2020-present) | _Incumbent_ |
 
 ***
 
@@ -38,6 +38,6 @@ Achievements are in early Alpha stages, and are not broad enough to put on displ
 
 # File info
 
-**File version:** `2 (2025, Monday, October 6th at 09:17 pm PST)`
+**File version:** `4 (2025, Monday, October 6th at 09:19 pm PST)`
 
 ***
